@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers - Test Patty
 
 - Class Date: Sept 25 - 26, 2-25
 - Facilitator: @jasontiedt 
