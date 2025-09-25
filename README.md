@@ -1,18 +1,18 @@
-# GitHub for Developers
+# GitHub for Developers - Test Patty
 
 - Class Date: Sept 25 - 26, 2-25
-- Facilitator: @jasontiedt
-
+- Facilitator: @jasontiedt 
+- changes
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
-- [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
+- [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)dd
 
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
 
 <details>
 
-<summary>More helpful links including videos, cheat sheets, and visualization tools</summary>
+<summary>More helpful links including videos, cheat sheets, and visualization tools..</summary>
 
 #### Git
 
