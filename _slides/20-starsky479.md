@@ -2,8 +2,7 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-
-Excellent job
+Hi, there
 
 ![saritocat](https://octodex.github.com/images/saritocat.png)
 {: .center}
